@@ -3,9 +3,9 @@
 [![View Live Catalog](https://img.shields.io/badge/Live-Catalog-blue)](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
 [![Mind Map](https://img.shields.io/badge/View-Mind%20Map-green)](nonviolent_resources_models_view.html?mindmap=1)
 
-> Tip: Use **Mind Map → Radial Tree** for a clean 360° layout (root in center, categories around, resources on the perimeter). Or try **Dynamic Graph** for drag-to-reposition plus a spacing slider.
+> Tip: Use **Mind Map → Radial 360** for an equal-sector, 360° layout (root centered; each category gets the same angular slice; resources spaced evenly). Try **Dynamic Graph** for drag-to-reposition with spacing control.
 
-![Preview of Interactive Catalog] (nonviolent_training_resources_mindmap.png)
+![Mind Map Preview (SVG)](nonviolent_training_resources_mindmap_interactive.svg)
 
 An **interactive catalog** of manuals, toolkits, training guides, and reference documents to support civil resistance and movement building.  
 

@@ -1,7 +1,6 @@
 # Strategic Nonviolent Training Resources
 
 [![View Live Catalog](https://img.shields.io/badge/Live-Catalog-blue)](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
-[![Mind Map](https://img.shields.io/badge/View-Mind%20Map-green)](https://paulhugel.github.io/strategic-nonviolent-training-resources/nonviolent_resources_models_view.html?mindmap=1)
 
 
 An **interactive catalog** of manuals, toolkits, training guides, and reference documents to support civil resistance and movement building.

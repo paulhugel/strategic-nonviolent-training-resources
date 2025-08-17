@@ -21,7 +21,6 @@ It provides a modern, searchable gallery interface where resources are grouped i
 - 📚 Categorized resources (toolkits, noncooperation guides, coalition building, communication, technical tools, etc.)
 - 🔎 Search and filter by keyword or category
 - 🔗 Direct links to OSF-hosted files (PDFs)
-- 🗺️ Mind map visualizations (Static SVG, Dynamic Graph, Radial 360)
 
 ---
 

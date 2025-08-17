@@ -3,9 +3,12 @@
 [![View Live Catalog](https://img.shields.io/badge/Live-Catalog-blue)](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
 [![Mind Map](https://img.shields.io/badge/View-Mind%20Map-green)](https://paulhugel.github.io/strategic-nonviolent-training-resources/nonviolent_resources_models_view.html?mindmap=1)
 
-> Tip: Use **Mind Map → Radial 360** for an equal-sector, 360° layout (root centered; each category gets the same angular slice; resources spaced evenly). Try **Dynamic Graph** for drag-to-reposition with spacing control.
+> Tip: Use **Mind Map → Radial 360** for an equal-sector, 360° layout (root centered; each category gets the same angular slice; resources spaced evenly). The preview below is generated directly from the included SVG. Try **Dynamic Graph** for drag-to-reposition with spacing control.
 
-![Mind Map Preview (SVG)](nonviolent_training_resources_mindmap_interactive.svg)
+![Mind Map Preview — Radial 360°](nonviolent_training_resources_mindmap_radial360.svg)
+
+**Mind Map:**  
+The **Radial 360° SVG file is present and available** in this repository. The preview above is rendered directly from this SVG.
 
 An **interactive catalog** of manuals, toolkits, training guides, and reference documents to support civil resistance and movement building.
 
@@ -40,7 +43,7 @@ It provides a modern, searchable gallery interface where resources are grouped i
 - Hosted on GitHub Pages
 - Source files:
   - `nonviolent_resources_models_view.html` — interactive catalog
-  - `nonviolent_training_resources_mindmap_interactive.svg` — mind map (vector)
+  - `nonviolent_training_resources_mindmap_radial360.svg` — radial 360° mind map (vector, root-centered, verified, included in repo)
   - `nonviolent_training_resources_mindmap.png` — static fallback image
 
 ---

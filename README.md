@@ -1,7 +1,7 @@
 # Strategic Nonviolent Training Resources
 
 [![View Live Catalog](https://img.shields.io/badge/Live-Catalog-blue)](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
-[![Mind Map](https://img.shields.io/badge/View-Mind%20Map-green)](nonviolent_training_resources_mindmap_interactive.svg)
+[![Mind Map](https://img.shields.io/badge/View-Mind%20Map-green)](nonviolent_resources_models_view.html?mindmap=1)
 
 ![Preview of Interactive Catalog](nonviolent_training_resources_mindmap.png)
 

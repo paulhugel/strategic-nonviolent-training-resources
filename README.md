@@ -1,5 +1,7 @@
 # Strategic Nonviolent Training Resources
 
+🌐 **[View the Live Interactive Catalog](https://paulhugel.github.io/strategic-nonviolent-training-resources/)**
+
 An **interactive catalog** of manuals, toolkits, training guides, and reference documents to support civil resistance and movement building.  
 
 This site is built from curated references archived in the [OSF project](https://osf.io/hu5w6/).  

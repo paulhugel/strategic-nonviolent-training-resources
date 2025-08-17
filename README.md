@@ -8,7 +8,7 @@ This site is built from curated references archived in the [OSF project](https:/
 It provides a modern, searchable gallery interface where resources are grouped into categories and linked directly to their OSF source.
 
 🌐 **Live interactive catalog:**  
-(coming soon via GitHub Pages)
+[https://paulhugel.github.io/strategic-nonviolent-training-resources/](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
 
 📂 **Permanent archival collection:**  
 [OSF — Strategic Nonviolent Training Resources](https://osf.io/hu5w6/)

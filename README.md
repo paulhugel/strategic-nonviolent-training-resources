@@ -35,8 +35,6 @@ It provides a modern, searchable gallery interface where resources are grouped i
 - Hosted on GitHub Pages
 - Source files:
   - `nonviolent_resources_models_view.html` — interactive catalog
-  - `nonviolent_training_resources_mindmap_interactive.svg` — mind map (vector)
-  - `nonviolent_training_resources_mindmap.png` — static fallback image
 
 ---
 

@@ -49,7 +49,7 @@ footer { text-align:center; color:var(--muted); padding:30px 10px; font-size:14p
 </main>
 <footer>© 2025 — Interactive catalog</footer>
 <script>
-const DATA = [{'title': ' Noncooperation 101', 'href': 'https://osf.io/hvwtn', 'category': 'Training & Toolkits'}, {'title': 'Training Agendas', 'href': 'https://osf.io/q4pvn', 'category': 'Noncooperation & Direct Action'}, {'title': 'ChatGPT AI Anomalies', 'href': 'https://osf.io/84dur', 'category': 'Technical & Support Tools'}, {'title': 'Coalition Building Best Practices', 'href': 'https://osf.io/xuh2q', 'category': 'Coalition & Partnerships'}, {'title': 'Cryptographic_Tools', 'href': 'https://osf.io/by946', 'category': 'Technical & Support Tools'}, {'title': 'Decoding DOGE', 'href': 'https://osf.io/u7bhw', 'category': 'Technical & Support Tools'}, {'title': 'How to talk with people you might disagree with', 'href': 'https://osf.io/ck3hn', 'category': 'Communication & Dialogue'}, {'title': 'Mass Noncooperation Examples', 'href': 'https://osf.io/twdhg', 'category': 'Noncooperation & Direct Action'}, {'title': 'Building local Partnerships', 'href': 'https://osf.io/w8d4s', 'category': 'Other / Misc'}, {'title': 'RESOURCE LIST USA Activist Hour', 'href': 'https://osf.io/69gxm', 'category': 'Movement Lists & Meta'}, {'title': 'Sense-making and Vision_ how did we get here?', 'href': 'https://osf.io/nq9jt', 'category': 'Communication & Dialogue'}, {'title': ' One Million Rising Hosts Toolkit', 'href': 'https://osf.io/wkbdr', 'category': 'Training & Toolkits'}];
+const DATA = [{'title': ' Noncooperation 101', 'href': 'https://osf.io/hvwtn', 'download': 'https://osf.io/download/hvwtn/', 'category': 'Training & Toolkits'}, {'title': 'Training Agendas', 'href': 'https://osf.io/q4pvn', 'category': 'Noncooperation & Direct Action'}, {'title': 'ChatGPT AI Anomalies', 'href': 'https://osf.io/84dur', 'category': 'Technical & Support Tools'}, {'title': 'Coalition Building Best Practices', 'href': 'https://osf.io/xuh2q', 'category': 'Coalition & Partnerships'}, {'title': 'Cryptographic_Tools', 'href': 'https://osf.io/by946', 'category': 'Technical & Support Tools'}, {'title': 'Decoding DOGE', 'href': 'https://osf.io/u7bhw', 'category': 'Technical & Support Tools'}, {'title': 'How to talk with people you might disagree with', 'href': 'https://osf.io/ck3hn', 'category': 'Communication & Dialogue'}, {'title': 'Mass Noncooperation Examples', 'href': 'https://osf.io/twdhg', 'category': 'Noncooperation & Direct Action'}, {'title': 'Building local Partnerships', 'href': 'https://osf.io/w8d4s', 'category': 'Other / Misc'}, {'title': 'RESOURCE LIST USA Activist Hour', 'href': 'https://osf.io/69gxm', 'category': 'Movement Lists & Meta'}, {'title': 'Sense-making and Vision_ how did we get here?', 'href': 'https://osf.io/nq9jt', 'category': 'Communication & Dialogue'}, {'title': ' One Million Rising Hosts Toolkit', 'href': 'https://osf.io/wkbdr', 'category': 'Training & Toolkits'}];
 const cats = Array.from(new Set(DATA.map(x => x.category))).sort();
 const grid = document.getElementById('grid');
 const filters = document.getElementById('filters');
@@ -94,7 +94,7 @@ function card(item) {
   a1.textContent = 'Open on OSF';
   actions.appendChild(a1);
   const a2 = document.createElement('a');
-  a2.href = item.href;
+  a2.href = item.download || item.href;
   a2.download = '';
   a2.textContent = 'Download';
   actions.appendChild(a2);

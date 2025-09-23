@@ -94,7 +94,8 @@ function card(item) {
   a1.textContent = 'Open on OSF';
   actions.appendChild(a1);
   const a2 = document.createElement('a');
-  a2.href = item.download || item.href;
+  const osfDownload = item.download || (typeof item.href === 'string' && item.href.startsWith('https://osf.io/') ? item.href.replace('https://osf.io/', 'https://osf.io/download/') : item.href);
+  a2.href = osfDownload;
   a2.download = '';
   a2.textContent = 'Download';
   actions.appendChild(a2);

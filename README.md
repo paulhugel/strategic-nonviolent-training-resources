@@ -2,6 +2,10 @@
 
 [![View Live Catalog](https://img.shields.io/badge/Live-Catalog-blue)](https://paulhugel.github.io/strategic-nonviolent-training-resources/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18488087.svg)](https://doi.org/10.5281/zenodo.18488087)
+
+Hugel, Paul Garrett (2026): *Strategic Nonviolent Training Resources*, v1.0.0.  
+Zenodo. https://doi.org/10.5281/zenodo.18488087
 
 An **interactive catalog** of manuals, toolkits, training guides, and reference documents to support civil resistance and movement building.
 
